@@ -5,15 +5,15 @@
 
 ## Функционал
 
-- Распределение задач по дням и времени
-- Возможность прикреплять медифайлы
-- Функция создачи подзадач
+- Распределение задач
+- Редактирование/Создание задач
+- Просмотр имеющихся задач
 
 ## Скриншоты
 
-На данный момент пока-что концепт приложения, взятый из открытых источников.
-
-![Main page](https://i0.wp.com/apptractor.ru/wp-content/uploads/2020/06/image1-4.png?w=816&ssl=1 "Main page")
+![List TODO](https://i.imgur.com/JN6aUW4.png "List TODO")
+![Create TODO](https://i.imgur.com/ek0NUdS.png "Create TODO")
+![Edit TODO](https://i.imgur.com/Lmp9Yga.png "Edit TODO")
 
 ## Технологии
 
